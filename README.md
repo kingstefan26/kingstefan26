@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kingstefan26
-- 👀 I’m interested in machine llernig/ 3d graphics
+- 👀 I’m interested in machine learning/ 3d graphics
 - 🌱 I’m currently learning java/c++
 - 💞️ I’m looking to collaborate on my projets luv
 - 📫 How to reach me @kingstefan26 on twitter
